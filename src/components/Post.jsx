@@ -32,6 +32,17 @@ export function Post() {
                 
             </div>
 
+            <form className={styles.comentForm}>
+                <strong>Deixe seu feedback</strong>
+
+                <textarea
+                    placeholder="Deixe seu comentário"
+                />
+                <footer>
+                    <button type="submit">Comentar</button>
+                </footer>
+            </form>
+
         </article>
     )
 }
