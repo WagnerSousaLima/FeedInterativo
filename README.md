@@ -26,7 +26,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Projeto Desenvolvido na trilha Ignite da Rocketseat
   
-  ## Como usar
+  ## 📝 Como usar
 
 1. Clonar repositório
 ``git clone https://github.com/WagnerSousaLima/FeedInterativo.git ``
