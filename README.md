@@ -1,33 +1,62 @@
-<h1 align="center"> Ignite Feed </h1>
-<img align="center" alt=banner-principal src="src/assets/banner.png">
-<br>
-<div align="center">
-  
-  ## 💻 Projeto
-Ignite feed é um projeto que simula o feed das redes sociais,<br />
-com funcionalidades de comentários, likes e apagar comentário.
-## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
- HTML e CSS<br />
- TypeScript<br />
- ReactJs e Vite<br />
- Date-fns e Phosphor-react<br />
- Git e Github
-## 🔖 Layout
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1113573231685349036/Ignite-Feed). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+<h1 align="center"> FeedInterativo </h1>
 
-Projeto Desenvolvido na trilha Ignite da Rocketseat
+![Banner Principal](src/assets/banner.png)
 
-  ## Como usar
+<h2 align="center"> 💻 Projeto </h2>
+  <p> O Ignite Feed é um projeto que simula o feed de uma rede social </p>
+  <p>  com funcionalidades de: </p>
+  <ul>
+    <li>Adicionar um post</li>
+    <li>Adicionar ou excluir comentários</li>
+    <li>Botão de like com contador do número de likes</li>
+  </ul>
+ 
 
-1. Clonar repositório
-``git clone https://github.com/WagnerSousaLima/FeedInterativo.git ``
+<h2 align="center"> 🚀 Tecnologias </h2>
 
-2. Instalar dependências
-``yarn`` ou ``npm i``
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-3. Subir projeto Local
-``yarn dev`` ou ``npm run dev``
+- HTML e CSS
+- TypeScript
+- ReactJS e Vite 
+- Date-fns e Phosphor-react (bibliotecas auxiliares)
+- Git e Github
 
-4. Acessar projeto
-``http://localhost:5173/``
+<h2 align="center"> 🔖 Layout </h2>
+
+Você pode visualizar o layout do projeto através [DESTE LINK](https://www.figma.com/community/file/1113573231685349036/Ignite-Feed). É necessário ter uma conta no [Figma](https://figma.com) para acessá-lo.
+
+## Como Usar
+
+Para executar o projeto localmente, siga estas etapas:
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/WagnerSousaLima/FeedInterativo.git
+   ```
+
+2. Instale as dependências:
+
+   ```bash
+   cd FeedInterativo
+   yarn
+   # ou
+   npm install
+   ```
+
+3. Inicie o projeto localmente:
+
+   ```bash
+   yarn dev
+   # ou
+   npm run dev
+   ```
+
+4. Acesse o projeto no seu navegador:
+
+   Abra o navegador e visite http://localhost:5173/
+
+Agora você pode explorar o Ignite Feed localmente e experimentar suas funcionalidades de feed de rede social. Divirta-se! 😊🚀
+
+Se tiver alguma dúvida ou precisar de assistência, não hesite em entrar em contato.
