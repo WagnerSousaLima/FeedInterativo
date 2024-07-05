@@ -12,6 +12,7 @@
   </ul>
  
 
+
 <h2 align="center"> 🚀 Tecnologias </h2>
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
